@@ -1,0 +1,1 @@
+nohup python train.py> runtrain.log 2>&1 &
